@@ -8,6 +8,8 @@ Here's some things about me:
 
 - I've learnt other languages on my own like Java, JS, HTML, etc.
 
+- I can get fustrated easily if you don't understand, but that's not your problem.
+
 That is all for this profile. If you think there's any ideas I can do, you may suggest it to me.
 
 ![JacksonChen666's github stats](https://github-readme-stats.vercel.app/api?username=JacksonChen666&theme=dark&show_icons=true)
