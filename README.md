@@ -5,10 +5,9 @@ I'm a person who has interest in programming with other related things. It's gre
 Here's some things about me:
 
 - I have knowledge in Python, Java, HTML
-
 - I can get fustrated easily if you don't understand, but that's not your problem.
-
 - I tend to be very skeptical about stuff I don't know.
+- Water is one of the sources of my existance.
 
 That is all for this profile. If you think there's any ideas I can do, you may suggest it to me.
 
