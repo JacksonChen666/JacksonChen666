@@ -1,1 +1,1 @@
-# **[Stuffs on GitLab](https://gitlab.com/JacksonChen666)**
+# **[Everything is on GitLab unless it's a fork (with exceptions)](https://gitlab.com/JacksonChen666)**
