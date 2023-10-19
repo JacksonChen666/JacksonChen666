@@ -1,6 +1,4 @@
-# **[My stuff is on SourceHut](https://sr.ht/~jacksonchen666/)**
-
-sidenote: [give up on github](https://sfconservancy.org/GiveUpGitHub/)
+[give up on github](https://sfconservancy.org/GiveUpGitHub/)
 
 <details><summary>things i still do on github (because it's on github)</summary>
 
