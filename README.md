@@ -25,3 +25,10 @@ which [has it's own issues][aiissue]).
 [aiissue]:https://drewdevault.com/2022/06/23/Copilot-GPL-washing.html
 
 </details>
+
+[My osu!lazer skin (releases)][skinreleases] ([extremely outdated
+example][skinexample])
+
+[skinreleases]:https://git.sr.ht/~jacksonchen666/osu-lazer-informational-argon-pro-skin/refs
+
+[skinexample]:https://github.com/ppy/osu/pull/26600
