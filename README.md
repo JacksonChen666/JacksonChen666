@@ -27,7 +27,7 @@ which [has it's own issues][aiissue]).
 </details>
 
 [My osu!lazer skin (releases)][skinreleases] ([extremely outdated
-example][skinexample])
+example (has extra elements not included in actual skin)][skinexample])
 
 [skinreleases]:https://git.sr.ht/~jacksonchen666/osu-lazer-informational-argon-pro-skin/refs
 
