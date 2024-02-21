@@ -2,6 +2,10 @@
 
 [give up on github](https://sfconservancy.org/GiveUpGitHub/)
 
+they/them, it/its, he/him
+
+(my pronouns are here because github won't show them if my activity is private)
+
 <details><summary>things i still do on github (because it's on github)</summary>
 
 - [synadm](https://github.com/JOJ0/synadm)
