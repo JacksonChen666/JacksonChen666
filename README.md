@@ -9,8 +9,8 @@ they/them, it/its, he/him
 <details><summary>things i still do on github (because it's on github)</summary>
 
 - [synadm](https://github.com/JOJ0/synadm)
-- complaining about the lack of licenses in a project on github ([example](https://github.com/mastodon/joinmastodon/issues/323))
-- file bugs and issues ([example](https://github.com/hifi/heisenbridge/issues/249))
+- [complaining about the lack of licenses in a project on github](https://github.com/mastodon/joinmastodon/issues/323)
+- [file bugs and issues](https://github.com/hifi/heisenbridge/issues/249)
 - [updating homebrew](https://github.com/Homebrew/homebrew-cask/pull/142319)
 
 </details>
